@@ -34,6 +34,7 @@ public class ConsultaRe {
         }
         
     }
+    //
     public ResultSet v0() {
         conexion sql= new conexion();
         Connection data = sql.conectar();
